@@ -1,0 +1,51 @@
+body { background-color:whitesmoke ;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+color:navy;
+}
+
+a:hover { font-family:Verdana, Arial, Helvetica, sans-serif;
+color:navy;
+background-color: white}
+
+h1 { font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:36px}
+
+h2 { font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:30px}
+
+h3 { font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:24px}
+
+#leftcontent { position: absolute;
+left:10px;
+top:77px;
+width:100px;
+background:;
+border:0px solid darkblue;
+}
+
+#centercontent { top:77px;
+background:whitesmoke;
+margin-left:99px;
+margin-right:119px;
+border:1px solid darkblue;
+voice-family: "
+\"
+}
+.button {
+    background-color: #56b5a9;
+    border: 1px solid #000000;
+    color: black;
+    padding: 8px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 9px;
+    border-radius: 12px;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+.button:hover {
+    color: white;
+}
