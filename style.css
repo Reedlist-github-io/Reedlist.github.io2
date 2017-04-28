@@ -53,7 +53,7 @@ input#remove {
     float:right;
     margin-bottom:20px;
     margin-right:5px;
-    background-color: #0a0f9e;
+    background-color: #4e9771;
      color: #ffffff;
      font-size:smaller;
       width: 65px;
@@ -64,7 +64,7 @@ input#adds {
     margin-right:5px;
     margin-left:10px;
      margin-top:5px;
-    background-color: #f44165;
+    background-color: #4e9771;
      color: #FFFFFF;
       font-size:smaller;
 }
