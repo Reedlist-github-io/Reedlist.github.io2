@@ -56,7 +56,7 @@ function copyToClipboard(text) {
 }
 
 window.onload = function() {
-    alert("Welcome to 'Shopping List' App!\n\nCreated by Amanda Reed");
+    alert("Welcome to my Summer Reading List! I've made a goal for myself to read more during the summer months, and what better way to help prepare for that than to make a list of books I'm interested in reading. This list can be used by you, as well! Feel free to share this page!");
     populateshoppinglistonload();
     displayShoppinglists();
     clearFocus();
@@ -64,7 +64,7 @@ window.onload = function() {
 
 function about()
 {
-    alert("Welcome to 'Shopping List' App!\n\nCreated by Amanda Reed");
+    alert("Welcome to my Summer Reading List! I've made a goal for myself to read more during the summer months, and what better way to help prepare for that than to make a list of books I'm interested in reading. This list can be used by you, as well! Feel free to share this page!");
     
 }
 //read cookie and return
