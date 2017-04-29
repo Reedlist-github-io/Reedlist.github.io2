@@ -19,7 +19,7 @@ function passlist()
    var getshorturl=0;
    var login = "amandareed14";
    var api_key = "R_85b72527460646d08184d344387a856d";
-   var long_url = "Reedlist.github.io2/index.html"+ shoppinglist;
+   var long_url = "https://reedlist-github-io.github.io/Reedlist.github.io2/"+ shoppinglist;
   try{
   $.getJSON(
              "https://api-ssl.bitly.com/v3/shorten?callback=?",
